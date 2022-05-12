@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sosorbetto
+- 👋 Hi, I’m Sonia Sorbona
 - 👀 I’m interested in creating GIS maps
 - 🌱 I’m currently learning Python for GIS environments
 - 📫 How to reach me sosorbetto@gmail.com
