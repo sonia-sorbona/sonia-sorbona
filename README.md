@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonia Sorbona
-- 👀 I’m interested in creating GIS maps
+- 👀 I’m interested in Geospatial Data Analyses and in creating GIS maps
 - 🌱 I’m currently learning Python for GIS environments
 - 📫 How to reach me sonia.sorbona@gmail.com
 
