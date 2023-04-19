@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sonia Sorbona, Research Fellow @ Politecnico di Milano. I conduct GIS analyses in accessibility of transportation services.
-- 👀 I’m interested in analysis and management of Geospatial Data, Maps and Geo Databases
-- 🌱 I’m currently working with Python for GIS environments
+- 👋 Hi, I’m Sonia Sorbona, Research Fellow @ Politecnico di Milano
+- 👀 I’m interested in environmental data management, analysis and visualisation
+- 🌱 I'm currently using Python and GIS to organise, analyse, and visualise transportation geospatial data
 - 📫 How to reach me sonia.sorbona@gmail.com
 
 <!---
